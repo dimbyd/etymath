@@ -1,0 +1,2 @@
+# etymath
+Etymoleg termau mathemateg
